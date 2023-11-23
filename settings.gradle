@@ -1,0 +1,5 @@
+rootProject.name = 'online-shop-gradle'
+
+include 'online-shop-application'
+include 'online-shop-rest-api'
+include 'online-shop-core'
